@@ -2,6 +2,6 @@
 int main(){
   int a,b;
   int c=a+b;
-  print(c);
+  printf(c);
 return 0;
 }
